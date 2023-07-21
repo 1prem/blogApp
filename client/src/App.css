@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.createform{
+    margin-top: 40px;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+label{
+    font-size: 1.2rem;
+}
+input{
+    border-radius: 6px;
+    margin:10px;
+    padding:5px;
+    font-size: 16px;
+
+}
+.head{
+    margin-top: 35px;
+}
+.heading {
+    margin-top: 75px;
+}
+.message{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+    
+
+}
+.btn{
+    margin: 10px;
+    padding:5px;
+    font-size: 12px;
+    color:white;
+    background-color: rgb(55, 143, 55);
+    border-radius: 5px;
+    width: 8rem;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
